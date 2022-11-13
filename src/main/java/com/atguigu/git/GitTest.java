@@ -16,6 +16,6 @@ public class GitTest {
         System.out.println("local update");
         System.out.println("local");
         System.out.println("local  hhh");
-        System.out.println("1");
+        System.out.println("2");
     }
 }
